@@ -1,0 +1,25 @@
+{
+  "name": "FormatReader",
+  "authors": [
+    "Hunt Nguyen <hunguyenv@gmail.com>"
+  ],
+  "description": "FormatReader",
+  "main": [
+    "FormatReader.js"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "image",
+    "viewer"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/spsvn/FormatReader",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
