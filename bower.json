@@ -1,11 +1,11 @@
 {
-  "name": "FormatReader",
+  "name": "formatreader",
   "authors": [
     "Hunt Nguyen <hunguyenv@gmail.com>"
   ],
   "description": "FormatReader",
   "main": [
-    "FormatReader.js"
+    "formatreader.js"
   ],
   "moduleType": [],
   "keywords": [
